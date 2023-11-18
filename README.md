@@ -1,8 +1,8 @@
-# DAPPER DINO
+# NFT DINO
 
 ## Description:
  
-Dapper Dino is a DAO platform where one can stake his DINO Token(NFT) to earn passive income in form of Fossil Tokens(ERC 20). This platform provides staking of NFT's from minimum 10 minutes to maximum of 365 days and accordingly rewards are distributed.
+NFT Dino is a DAO platform where one can stake his DINO Token(NFT) to earn passive income in form of Fossil Tokens(ERC 20). This platform provides staking of NFT's from minimum 10 minutes to maximum of 365 days and accordingly rewards are distributed.
 One can stake multiple NFT's at a time in the platform and can be unstaked after staking time period is over.
 And rewards can be claimed just after the staking.
 Reward distribution occurs once in every 24 hours by the admin.
@@ -46,12 +46,6 @@ Reward distribution occurs once in every 24 hours by the admin.
 ### Run Test Cases :
 
 - Run `npx hardhat test` to execute all the testcases of the contracts
-
-### Documents
-
-Contracts Deployment Guide : [Link](https://github.com/Dapper-Dino/Dapper-Dino-Contracts/blob/main/docs/Dapper%20Dino%20(NFT)%20Contracts%20Deployment%20Guide.pdf)
-
-Dapper Dino Documentation :  [Link](https://github.com/Dapper-Dino/Dapper-Dino-Contracts/blob/main/docs/Dapper%20Dino%20(NFT)%20Documentation.pdf)
 
 ### Contracts
 
